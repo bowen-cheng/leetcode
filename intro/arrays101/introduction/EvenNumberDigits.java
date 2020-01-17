@@ -1,4 +1,4 @@
-package arrays101.introduction.evennumberdigits;
+package arrays101.introduction;
 
 /**
  * Given an array nums of integers, return how many of them contain an even number of digits.

@@ -1,4 +1,4 @@
-package arrays101.introduction.maxconsecutiveones;
+package arrays101.introduction;
 
 /**
  * Given a binary array, find the maximum number of consecutive 1s in this array.

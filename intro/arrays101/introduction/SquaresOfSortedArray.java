@@ -1,4 +1,4 @@
-package arrays101.introduction.squaressortedarray;
+package arrays101.introduction;
 
 import java.util.Arrays;
 
