@@ -51,6 +51,7 @@ public class FirstBadVersion extends VersionControl {
         right = mid;
       } else {
         /*
+        $$
         Always remember to set lower bound to be 1 plus mid.
         This is because of the integer division in mid = left + (right - left) / 2:
         When right-left=1
