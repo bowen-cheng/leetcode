@@ -16,7 +16,7 @@ public class ValidPerfectSquare {
     }
   }
 
-  /** $$ Binary search */
+  /** $tag$ Binary search */
   public static boolean isPerfectSquare(int num) {
     long l = 0;
     long h = num;

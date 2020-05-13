@@ -33,7 +33,7 @@ public class FirstBadVersion extends VersionControl {
     System.out.println("result is: " + new FirstBadVersion().solution(n));
   }
 
-  /** The most efficient solution is binary search */
+  /** $tag$ binary search */
   public int solution(int n) {
 
     int left = 1;
